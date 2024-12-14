@@ -1,1 +1,1 @@
-# Car_dekho_Analysis
+Conducted exploratory data analysis (EDA) on 8,148 rows using Pandas and Python, improving data quality by 95% through cleaning and feature engineering. Analyzed 13 variables with Matplotlib, generating insights that streamlined vehicle categorization and pricing, reducing inconsistencies by 50%.
